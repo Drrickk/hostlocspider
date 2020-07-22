@@ -6,7 +6,7 @@ import redis
 import telebot
 from apscheduler.schedulers.background import BackgroundScheduler
 
-TOKEN = "1314801431:AAHPJSAItCsUMmaxUn9Zt5y_OJhgQLcpB4A"
+TOKEN = ""
 TGflag = False
 chatidList = []
 bot = telebot.TeleBot(TOKEN)
